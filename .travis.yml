@@ -100,7 +100,7 @@ before_install:
     AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID_PROD;
     AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY_PROD;
     S3_BUCKET='asdfjfdjieladanfkjedfdjfiopppaskdfjke';
-    CODEDEPLOY_APP='a1-EC2-CodeDeploy';
+    CODEDEPLOY_APP='kikicloudformation-EC2-CodeDeploy';
     CODEDEPLOY_GROUP='ec2';
   fi
 
